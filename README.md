@@ -33,7 +33,7 @@ The analyses were developed to investigate how neurochemical similarity constrai
 
 ## 1. Generate Parcellation Labels
 
-The analyses use the Schaefer 2018 200-parcel, 17-network atlas projected from `fsaverage` to each participant.
+The analyses use the Schaefer 2018 200-parcel 17-network atlas projected from `fsaverage` to each participant.
 
 Template:
 https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal/Parcellations/FreeSurfer5.3/fsaverage
